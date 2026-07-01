@@ -1,5 +1,16 @@
 # Junyeong Kim
 
+
+```txt
+ __________________________________________
+< Trying to make complex workflows          >
+< feel a little less scary.                 >
+ ------------------------------------------
+        \   (^_^)
+         \  /| |\
+            /   \
+```
+
 Frontend Engineer
 
 I develop the web frontend for **Alpacon**, a security and infrastructure SaaS product.
@@ -34,12 +45,3 @@ I develop the web frontend for **Alpacon**, a security and infrastructure SaaS p
 
 ---
 
-```txt
- __________________________________________
-< Trying to make complex workflows          >
-< feel a little less scary.                 >
- ------------------------------------------
-        \   (^_^)
-         \  /| |\
-            /   \
-```
