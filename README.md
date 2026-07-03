@@ -16,8 +16,6 @@
 
 ```
 
-Frontend Engineer
-
 I develop the web frontend for **Alpacon**, a security and infrastructure SaaS product.
 
 ## About
